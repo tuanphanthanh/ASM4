@@ -11,12 +11,12 @@
   body::before {
     display: block;
     content: '';
-    height: 50x;
+    height: 40x;
   }
  
 
        
-    #chudep{font-family: 'Amatic SC', cursive;font-weight: bolder ;font-size: 200%;}
+    #chudep{font-family: 'Amatic SC', cursive;font-weight: bolder ;font-size: 250%;}
     #chudep2{font-family: 'Amatic SC', cursive;font-weight:bolder;font-size: 200%;}
     .fun{font-family: 'Dancing Script', cursive;color:yellow;font-size: 150%;}
    #navbar a:hover{color:rgb(255, 0, 234); font-family: 'Dancing Script', cursive;}
